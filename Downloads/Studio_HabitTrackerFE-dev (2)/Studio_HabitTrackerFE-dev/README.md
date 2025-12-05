@@ -1,4 +1,12 @@
-# React + Vite
+# Habits Tracker Culture Office - Frontend
+
+Project untuk tracking habits budaya kantor menggunakan React + Vite.
+
+## Teknologi
+- React 19.2.0
+- Vite 7.2.2
+- Tailwind CSS 4.1.17
+- Radix UI Components
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
